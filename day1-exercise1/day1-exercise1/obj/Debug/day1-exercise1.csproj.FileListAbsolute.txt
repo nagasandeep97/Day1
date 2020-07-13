@@ -1,0 +1,7 @@
+C:\Users\sandeep\source\repos\day1-exercise1\day1-exercise1\bin\Debug\day1-exercise1.exe.config
+C:\Users\sandeep\source\repos\day1-exercise1\day1-exercise1\bin\Debug\day1-exercise1.exe
+C:\Users\sandeep\source\repos\day1-exercise1\day1-exercise1\bin\Debug\day1-exercise1.pdb
+C:\Users\sandeep\source\repos\day1-exercise1\day1-exercise1\obj\Debug\day1-exercise1.csprojAssemblyReference.cache
+C:\Users\sandeep\source\repos\day1-exercise1\day1-exercise1\obj\Debug\day1-exercise1.csproj.CoreCompileInputs.cache
+C:\Users\sandeep\source\repos\day1-exercise1\day1-exercise1\obj\Debug\day1-exercise1.exe
+C:\Users\sandeep\source\repos\day1-exercise1\day1-exercise1\obj\Debug\day1-exercise1.pdb

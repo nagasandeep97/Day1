@@ -1,0 +1,6 @@
+C:\Users\sandeep\source\repos\day1-prog5\day1-prog5\bin\Debug\day1-prog5.exe.config
+C:\Users\sandeep\source\repos\day1-prog5\day1-prog5\bin\Debug\day1-prog5.exe
+C:\Users\sandeep\source\repos\day1-prog5\day1-prog5\bin\Debug\day1-prog5.pdb
+C:\Users\sandeep\source\repos\day1-prog5\day1-prog5\obj\Debug\day1-prog5.csproj.CoreCompileInputs.cache
+C:\Users\sandeep\source\repos\day1-prog5\day1-prog5\obj\Debug\day1-prog5.exe
+C:\Users\sandeep\source\repos\day1-prog5\day1-prog5\obj\Debug\day1-prog5.pdb
